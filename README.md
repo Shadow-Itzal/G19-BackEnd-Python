@@ -23,7 +23,7 @@ Bienvenidos al sitio web oficial de **Carolina Silva**, una fotógrafa de bodas 
 
 El sitio web está organizado en las siguientes secciones:
 
-- **🏠 Inicio**: La página principal del sitio, que ofrece una cálida bienvenida e introducción a Carolina Silva y su enfoque distintivo en la fotografía de bodas. 🌟
+- **🏠 Inicio**: La página principal del sitio, que ofrece una cálida bienvenida e introducción a Carolina Silva y su enfoque distintivo en la fotografía de bodas, además de algunos testimonias para tener en cuenta. 🌟
 - **🖼️ Galería**: Una selección de las mejores fotografías tomadas por Carolina Silva, mostrando su estilo artístico y profesionalismo en cada captura. 📷✨
 - **📖 Conóceme**: Una sección dedicada a la historia de Carolina Silva, su trayectoria profesional y su amor por la fotografía, permitiendo a los visitantes conocerla mejor. 💼📸
 - **✉️ Contacto**: Información detallada de contacto y un formulario interactivo para que los interesados puedan comunicarse fácilmente con Carolina Silva para consultas y reservas. 📬📞
