@@ -1,2 +1,2 @@
-# G19-BackEnd-Python
-Trabajo final del curso de Python 2024
+# Grupo-Practica
+ Practicas para el grupo de Python
